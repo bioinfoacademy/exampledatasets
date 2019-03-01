@@ -1,0 +1,78 @@
+amrZ	alginate and motility regulator Z	483.31	0.00000	4.80	0.00E+00	PA3385	+
+PA1784	hypothetical protein-(40% homology to Klebsiella alginate lyase)	19.74	0.00000	5.59	0.00E+00	PA1784	-
+PA2146	hypothetical protein-(92% homology to yciG from E.coli--swarming)	8.26	0.00000	2.25	0.00E+00	PA2146	+
+pelB	protein PelB	6.64	0.00000	5.76	0.00E+00	PA3063	-
+PA0102	carbonic anhydrase	4.57	0.00000	3.05	0.00E+00	PA0102	+
+algD	GDP-mannose 6-dehydrogenase AlgD	3.79	0.00000	6.68	0.00E+00	PA3540	+
+PA1069	hypothetical protein	3.22	0.00000	3.58	0.00E+00	PA1069	+
+PA0082	hypothetical protein (TssA1 Type 6 secretion)	2.84	0.00000	2.74	0.00E+00	PA0082	+
+PA4625	hypothetical protein (CdrA)	2.84	0.00000	7.94	0.00E+00	PA4625	-
+PA4625	hypothetical protein (CdrA)	2.84	0.00000	4.24	0.00E+00	PA4625	-
+vreA	VreA	2.67	0.00000	6.39	0.00E+00	PA0674	+
+PA1738	transcriptional regulator	-2.00	0.00000	3.56	0.00E+00	PA1738	-
+PA3350	flagellar basal body P-ring biosynthesis protein FlgA	-2.01	0.00000	2.37	0.00E+00	PA3350	+
+PA1668	hypothetical protein (DotU2 Type 6)	-2.04	0.00000	6.17	0.00E+00	PA1668	+
+PA1668	hypothetical protein (DotU2 Type 6)	-2.04	0.00000	4.91	0.00E+00	PA1668	+
+PA1939	hypothetical protein (predicted OLD family endonuclease)	-2.07	0.00000	3.96	0.00E+00	PA1939	-
+PA3019	ABC transporter ATP-binding protein	-2.09	0.00000	7.55	0.00E+00	PA3019	-
+PA4980	enoyl-CoA hydratase	-2.09	0.00000	17.74	0.00E+00	PA4980	-
+ygbB	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	-2.15	0.00000	3.65	0.00E+00	PA3627	-
+mucR	MucR	-2.16	0.00000	2.72	0.00E+00	PA1727	-
+PA3340	hypothetical protein (43% similar to FimV)	-2.25	0.00000	2.48	0.00E+00	PA3340	-
+phzA1	phenazine biosynthesis protein	-2.29	0.00308	2.23	0.00E+00	PA4210	+
+PA4331	hypothetical protein (probable ferredoxin reductase)	-2.29	0.00000	5.24	0.00E+00	PA4331	-
+fliF	flagellar MS-ring protein	-2.38	0.00000	5.49	0.00E+00	PA1101	+
+PA3401	hypothetical protein (predicted ABC-type multidrug transport system, permease component)	-2.41	0.00000	8.88	0.00E+00	PA3401	-
+PA2567	hypothetical protein (predicted phosphodiesterase EAL)	-2.50	0.00000	3.63	0.00E+00	PA2567	+
+PA1088	hypothetical protein (Predicted magnesium protoporphyrin IX methyltransferase activity)	-2.56	0.00000	4.94	0.00E+00	PA1088	+
+PA0472	RNA polymerase sigma factor FiuI, sigma 24 homolog	-2.61	0.00000	2.64	0.00E+00	PA0472	-
+PA4520	chemotaxis transducer	-2.61	0.00000	3.51	0.00E+00	PA4520	-
+PA4739	hypothetical protein (predicted periplasmic or secreted lipoprotein)	-2.68	0.01899	2.15	0.00E+00	PA4739	-
+PA0494	acetyl-CoA carboxylase biotin carboxylase subunit	-2.73	0.00000	8.98	0.00E+00	PA0494	+
+PA3353	hypothetical protein (predicted c-di-GMP binding protein)	-2.73	0.00000	4.04	0.00E+00	PA3353	+
+PA4033	hypothetical protein MucE	-2.75	0.00000	5.32	0.00E+00	PA4033	+
+PA1664	hypothetical protein OrfX (secreted by Type 6)	-2.86	0.00115	5.77	0.00E+00	PA1664	+
+PA1331	hypothetical protein (70% similar to YegH of E. coli)	-2.88	0.00000	5.57	0.00E+00	PA1331	-
+rhlR	transcriptional regulator RhlR	-2.88	0.00000	2.89	0.00E+00	PA3477	-
+PA3413	hypothetical protein (predicted SOS response gene)	-2.90	0.00000	3.30	0.00E+00	PA3413	+
+PA3951	hypothetical protein (no prediction)	-2.91	0.00000	3.72	0.00E+00	PA3951	-
+PA1340	amino acid ABC transporter membrane protein	-3.01	0.00000	5.87	0.00E+00	PA1340	-
+PA3367	hypothetical protein (contains type 1 export signal)	-3.02	0.00000	3.17	0.00E+00	PA3367	+
+PA4844	chemotaxis transducer	-3.10	0.00000	4.69	0.00E+00	PA4844	+
+flgE	flagellar hook protein FlgE	-3.12	0.00000	4.89	0.00E+00	PA1080	+
+flp	type IVb pilin, Flp	-3.17	0.00057	7.12	0.00E+00	PA4306	+
+PA4683	hypothetical protein (no prediction)	-3.32	0.00000	4.87	0.00E+00	PA4683	-
+PA4683	hypothetical protein (no prediction)	-3.32	0.00000	3.90	0.00E+00	PA4683	-
+exsC	exoenzyme S synthesis protein C	-3.38	0.00000	2.64	0.00E+00	PA1710	+
+pctC	chemotactic transducer PctC	-3.47	0.00000	10.67	0.00E+00	PA4307	+
+PA2462	hypothetical protein (contains type 1 export signal)	-3.75	0.00000	4.89	0.00E+00	PA2462	-
+PA2462	hypothetical protein (contains type 1 export signal)	-3.75	0.00000	4.61	0.00E+00	PA2462	-
+PA1199	lipoprotein	-4.04	0.00000	4.33	0.00E+00	PA1199	+
+flgG	flagellar basal body rod protein FlgG	-4.25	0.00000	3.47	0.00E+00	PA1082	+
+PA0938	hypothetical protein (predicted exopolysaccharide chain length determinant protein)	-4.43	0.00000	3.53	0.00E+00	PA0938	+
+PA1680	hypothetical protein (predicted 3-oxoadipate enol-lactonase activity)	-4.56	0.00000	6.48	0.00E+00	PA1680	-
+PA4324	hypothetical protein (predicted PilZ domain)	-4.75	0.00000	4.77	0.00E+00	PA4324	-
+PA1941	hypothetical protein (no prediction)	-4.87	0.00000	3.28	0.00E+00	PA1941	-
+PA1656	hypothetical protein HsiA2 (predicted type 6)	-4.93	0.00000	2.46	0.00E+00	PA1656	+
+PA3722	hypothetical protein (no prediction)	-5.11	0.00000	3.30	0.00E+00	PA3722	-
+PA0038	hypothetical protein (no prediction)	-5.12	0.00000	7.13	0.00E+00	PA0038	+
+PA1657	hypothetical protein HsiB2 (predicted type 6)	-5.31	0.00000	3.72	0.00E+00	PA1657	+
+PA0045	hypothetical protein (predicted curli formation function)	-5.59	0.00000	2.53	0.00E+00	PA0045	+
+PA5167	c4-dicarboxylate-binding protein	-5.93	0.00000	4.56	0.00E+00	PA5167	+
+PA0172	hypothetical protein SiaA	-6.59	0.00000	11.93	0.00E+00	PA0172	-
+PA0179	two-component response regulator (predicted CheY-like receiver domain and winged-helix DNA-binding domain)	-7.05	0.00000	2.32	0.00E+00	PA0179	-
+pchG	pyochelin biosynthetic protein PchG	-7.13	0.00000	13.60	0.00E+00	PA4224	-
+PA3234	acetate permease	-7.63	0.00000	3.88	0.00E+00	PA3234	-
+fleQ	transcriptional regulator FleQ	-8.05	0.00000	3.00	0.00E+00	PA1097	+
+PA2463	hypothetical protein (predicted hemolysin activation/ secretion protein)	-8.23	0.00000	2.87	0.00E+00	PA2463	-
+PA4677	hypothetical protein (predicted dipeptidase)	-8.96	0.00000	5.99	0.00E+00	PA4677	-
+PA4222	ABC transporter ATP-binding protein	-9.09	0.00000	7.13	0.00E+00	PA4222	-
+PA3235	hypothetical protein (predicted membrane protein)	-9.18	0.00000	6.49	0.00E+00	PA3235	-
+PA5138	hypothetical protein (predicted ABC-type amino acid transport/ signal transduction)	-10.23	0.00000	4.20	0.00E+00	PA5138	-
+PA3691	hypothetical protein (no prediction)	-11.66	0.00000	3.31	0.00E+00	PA3691	+
+PA3740	hypothetical protein (no prediction)	-12.15	0.00000	2.72	0.00E+00	PA3740	+
+PA1913	hypothetical protein (no prediction)	-13.51	0.00000	5.01	0.00E+00	PA1913	-
+PA2867	chemotaxis transducer	-14.89	0.00000	9.60	0.00E+00	PA2867	+
+PA0505	hypothetical protein (no prediction)	-16.16	0.00000	2.87	0.00E+00	PA0505	+
+PA3662	hypothetical protein (no prediction)	-23.69	0.00000	2.75	0.00E+00	PA3662	+
+PA4843	two-component response regulator	-40.27	0.00000	4.48	0.00E+00	PA4843	+
